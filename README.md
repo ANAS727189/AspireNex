@@ -17,7 +17,7 @@
       <!-- Your detailed project description goes here -->
     </p>
     <h3>Some Photos:</h3>
-    <img src = "https://www.dropbox.com/scl/fi/azrylr1c7npljbpxbps1m/p1-1.PNG?rlkey=mxehkbfsn76kiwq6npecs0emp&st=sroz97hr&dl=0?raw=1" alt = "portfolio-home">
+    <img src = "[dl=0?raw=1](https://imgur.com/NvKQWRF)" alt = "portfolio-home">
      <img src = "https://www.dropbox.com/scl/fi/1hm4xpfrjwxqsgj3p0lfq/p1-2.PNG?rlkey=psuzoheuc173uppz21q0reit9&st=33d2tndk&dl=0?raw=1" alt = "portfolio-home">
      <img src = "https://www.dropbox.com/scl/fi/0rbpqz4ug0vx23g82an9l/p1-3.PNG?rlkey=ozy8z3t7d7sriwit6r03kv7if&st=wkndlcdj&dl=0?raw=1" alt = "portfolio-home">
      <img src = "https://www.dropbox.com/scl/fi/wj39ohwp3g5n4ehtzkiem/p1-4.PNG?rlkey=vba3lfz38ucvmiu060jt1ttal&st=uufoxtit&dl=0?raw=1" alt = "portfolio-home">
