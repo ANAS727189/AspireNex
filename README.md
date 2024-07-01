@@ -23,7 +23,11 @@
     <img src="Screenshots/p1-5.PNG" alt="portfolio-home">
     <img src="Screenshots/p1-6.PNG" alt="portfolio-home">
     <br>
+    <br>
+    <br>
+    <hr>
     <a class="live-project" href="https://mywebsite-anas727189s-projects.vercel.app/"><b>View Live 🚀<b></a>
+      <hr>
   </div>
       <br>
   <hr>
@@ -47,8 +51,12 @@
     <img src="Screenshots/p2-3.PNG" alt="quizz-home">
     <img src="Screenshots/p2-4.PNG" alt="quizz-home">
     <br>
+    <br>
+    <br>
+    <hr>
     <a class="live-project" href="https://quizwizz-lay1d5n3w-anas727189s-projects.vercel.app/"><b>View Live 🚀<b></a>
   </div>
+  <br>
 
 </body>
 </html>
