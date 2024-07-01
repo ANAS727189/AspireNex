@@ -9,6 +9,7 @@
       <li>ReactJS</li>
       <li>CSS</li>
       <li>Tailwind</li>
+      <li>Styled Components</li>
       <li>Material Icons</li>
     </ul>
     <h3>Description:</h3>
@@ -39,7 +40,6 @@
       <li>ReactJS</li>
       <li>CSS</li>
       <li>Tailwind</li>
-      <li>Material Icons</li>
     </ul>
     <h3>Description:</h3>
     <p>
