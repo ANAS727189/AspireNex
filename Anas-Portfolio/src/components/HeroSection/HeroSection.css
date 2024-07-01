@@ -1,0 +1,16 @@
+@media (max-width: 870px) {
+    .inline-break {
+        display: block;
+        text-align: center;
+    }
+}
+
+@media (max-width: 420px) {
+   #right img{
+      width: 280px;
+      height:280px;
+   }
+   .type-right {
+      font-size: 1.08rem;
+   }
+}

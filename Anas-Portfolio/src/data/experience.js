@@ -1,0 +1,55 @@
+
+export const experiences = [
+    {
+      id: 0,
+      img: "https://prodigyinfotech.dev/assets/images/logo/logo.svg",
+      role: "Full Stack Web Development Intern",
+      company: "Prodigy Infotech.",
+      date: "June 2024 - July 2023",
+      desc: "Web Development based remote virtual internship . Full stack web development task projects were given to be completed by a month .Overall a great learning experience.",
+      skills: [
+        "ReactJS",
+        "NodeJS",
+        "ExpressJS",
+        "HTML",
+        "CSS",
+        "JS",
+        "NextJS",
+        "MongoDB",
+        "Vercel",
+        "NextJS",
+      ],
+      // doc:prodigy,
+    },
+    {
+      id: 0,
+      img: "https://imgs.search.brave.com/xBYgbjjX-jnOBxtwJAlfYeCRYuvXWg8JlPm8ryfJZiw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jYW1v/LmdpdGh1YnVzZXJj/b250ZW50LmNvbS9j/Zjc3YTEwZjcwNjAw/MDI0MDg4ZDJkNDFm/ODI2MTAyMWU4OTNk/Yzg0NGFhOTQ5NjFm/MGYxZmM5NDc0ZGRi/NDk1LzY4NzQ3NDcw/NzMzYTJmMmY2MTcz/NzM2NTc0NzMyZTdh/Nzk3MjZmNzM2OTc0/NjUyZTYzNmY2ZDJm/NjM2NDZlMmQ2MzY3/NjkyZjY5NmQ2MTY3/NjUyZjY2NmY3MjZk/NjE3NDNkNjE3NTc0/NmYyYzc3M2QzNjMw/MzgyYzY2Njk3NDNk/NjM3MjZmNzAyYzcx/M2QzOTM1MmY0MTcx/MzIzMDY1NTYzNzM5/N2E0YzY2NzA1ODU2/MzY2MjJmNmM2ZjY3/NmYyZDcwNmU2NzJk/NmQ2ZTZjMzc2ZTcw/NmU2YzU4NmE0ODUw/NmMzOTRiNTYyZTcw/NmU2Nw",
+      role: "Cpp Developer",
+      company: "CodSoft",
+      date: "June 2024 - Present",
+      desc: "C++ based projects were given for increasing the learning in c++ which is a standard language also used for gaming .",
+      skills: [
+        "C",
+        "C++",
+        "Websocket",
+        "RestAPI",
+        "CMake",
+        "Git",
+        "Github",
+        "GitLab",
+        "Docker",
+        "SQL",
+      ],
+      // doc: codsoft,
+    },
+   
+    {
+      id: 2,
+      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
+      role: "Open Source Contributor ",
+      company: "GirlScript Summer of Code",
+      date: "May 2024 - Present",
+      desc: "Contributing to different open-source projects and learning from them .",
+    },
+  ];
+ 
