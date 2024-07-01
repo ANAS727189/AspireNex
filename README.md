@@ -17,7 +17,7 @@
       <!-- Your detailed project description goes here -->
     </p>
     <h3>Some Photos:</h3>
-    <img src = "https://www.dropbox.com/scl/fi/azrylr1c7npljbpxbps1m/p1-1.PNG?rlkey=mxehkbfsn76kiwq6npecs0emp&st=w7cd5hrj&dl=0" alt = "portfolio-home" />
+    <img src = "https://www.dropbox.com/scl/fi/azrylr1c7npljbpxbps1m/p1-1.PNG?rlkey=mxehkbfsn76kiwq6npecs0emp&st=w7cd5hrj&dl=0" alt = "portfolio-home">
     <a class="live-project" href="https://mywebsite-anas727189s-projects.vercel.app/">Live Project</a>
   </div>
 
