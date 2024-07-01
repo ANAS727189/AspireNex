@@ -43,7 +43,7 @@
     </ul>
     <h3>Description:</h3>
     <p>
-      QuizWizz is a web application built with ReactJS aimed at providing interactive quizzes on various topics. Users can answer questions and receive instant feedback on their performance.
+      QuizWizz is a web application built with ReactJS aimed at providing interactive quizzes on various topics. Users can not only create their own quizzes but also answer questions and receive instant feedback on their performance.
     </p>
     <h3>Some Photos:</h3>
     <img src="Screenshots/p2-1.PNG" alt="quiz-home">
