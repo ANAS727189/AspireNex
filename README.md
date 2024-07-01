@@ -1,7 +1,7 @@
 <body>
 
   <h1><b>AspireNex Projects</b></h1>
-
+<hr>
   <div class="project">
     <h2><b>1. Portfolio Website</b></h2>
     <h3>Technologies Used:</h3>
@@ -22,8 +22,11 @@
     <img src="Screenshots/p1-4.PNG" alt="portfolio-home">
     <img src="Screenshots/p1-5.PNG" alt="portfolio-home">
     <img src="Screenshots/p1-6.PNG" alt="portfolio-home">
-    <a class="live-project" href="https://mywebsite-anas727189s-projects.vercel.app/">Live Project</a>
+    <br>
+    <a class="live-project" href="https://mywebsite-anas727189s-projects.vercel.app/"><b>View Live 🚀<b></a>
   </div>
+      <br>
+  <hr>
 
   <div class="project">
     <h2><b>2. QuizWizz</b></h2>
@@ -43,8 +46,10 @@
     <img src="Screenshots/p2-2.PNG" alt="quizz-home">
     <img src="Screenshots/p2-3.PNG" alt="quizz-home">
     <img src="Screenshots/p2-4.PNG" alt="quizz-home">
-    <a class="live-project" href="https://quizwizz-lay1d5n3w-anas727189s-projects.vercel.app/">Live Project</a>
+    <br>
+    <a class="live-project" href="https://quizwizz-lay1d5n3w-anas727189s-projects.vercel.app/"><b>View Live 🚀<b></a>
   </div>
 
 </body>
 </html>
+<hr>
