@@ -1,0 +1,120 @@
+/* /components/homepage.css */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.homepage-container {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  text-align: center;
+  width: 90%;
+  max-width: 600px;
+  margin: auto;
+}
+
+.logo {
+  max-width: 150px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 18px;
+  color: #ddd;
+  margin-bottom: 40px;
+}
+
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.homepage-button {
+  background-color: #007bff;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s, transform 0.3s;
+  box-shadow: 0 4px 15px rgba(0, 123, 255, 0.3);
+  width: 100%;
+}
+
+.homepage-button:hover {
+  background-color: #0056b3;
+  transform: translateY(-2px);
+}
+
+.homepage-button:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 900px) {
+  body {
+    height: auto;
+    padding: 20px;
+  }
+
+  .homepage-container {
+    width: 100%;
+    max-width: 90%;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+
+  p {
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+
+  .homepage-button {
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+
+  .logo {
+    max-width: 130px;
+  }
+}
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 24px;
+  }
+
+  p {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+
+  .homepage-button {
+    padding: 10px 15px;
+    font-size: 12px;
+  }
+
+  .logo {
+    max-width: 100px;
+  }
+}
