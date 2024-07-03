@@ -5,7 +5,6 @@
   <div class="project">
     <h2><b>1. Portfolio Website</b></h2>
         <br>
-    <hr>
     <p>View the project Live - </p>
     <a class="live-project" href="https://react-portfolio-t0b3.onrender.com/"><b>View Live 🚀<b></a>
       <hr>
