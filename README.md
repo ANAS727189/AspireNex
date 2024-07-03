@@ -4,6 +4,11 @@
 <hr>
   <div class="project">
     <h2><b>1. Portfolio Website</b></h2>
+        <br>
+    <hr>
+    <p>View the project Live - </p>
+    <a class="live-project" href="https://react-portfolio-t0b3.onrender.com/"><b>View Live 🚀<b></a>
+      <hr>
     <h3>Technologies Used:</h3>
     <ul>
       <li>ReactJS</li>
@@ -24,12 +29,7 @@
     <img src="Screenshots/p1-5.PNG" alt="portfolio-home">
     <img src="Screenshots/p1-6.PNG" alt="portfolio-home">
     <br>
-    <br>
-    <br>
-    <hr>
-    <p>View the project Live - </p>
-    <a class="live-project" href="https://react-portfolio-t0b3.onrender.com/"><b>View Live 🚀<b></a>
-      <hr>
+    
   </div>
       <br>
   <hr>
