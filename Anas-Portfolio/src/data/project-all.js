@@ -1,27 +1,171 @@
 import todo from "../assets/project/todolist.png";
 import me from "../assets/Me.jpg";
+import buzzchat from "../assets/project/buzzchat.png";
+import quiz from "../assets/project/quiz.png";
  const projects = [
-    {
-      title: "To Do List",
-      description: "Todo List is a dynamic task management application crafted using React, React Material-UI, and CSS. This project provides use with a streamlined interface to organize their tasks effectively.The tasks can be added, edited, marked as completed, or deleted effortlessly,facilitating seamless task management",
-      image: todo,
-      date: "Jun 2023 - Jul 2023",
-      tags: [
-        "React",
-        "React Material UI",
-        "CSS",
-      ],
-      github: "https://github.com/rishavchanda/Trackify",
-      link: "https://7sjwxq.csb.app/",
-      member: [
-        {
-          name: "Anas Khan",
-          img: me,
-          linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-          github: "https://github.com/ANAS727189/",
-        },
-      ],
-    },
+  {
+    title: "BuzzChat",
+    description: "BuzzChat is a fun realtime chatting platform built using Websocket and ReactJS . It is a platform where users can interact with one another in real time .",
+    image: buzzchat,
+    date: "July 2024 - July 2024",
+    tags: [
+      "Websocket",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "State Management",
+      "Routers",
+      "TailwindCSS",
+      "RESTful APIs",
+      "Render",
+      "Postman",
+    ],
+    github: "https://github.com/ANAS727189/BuzzChat",
+    link: "https://buzz-chat-rho.vercel.app/",
+    member: [
+      {
+        name: "Anas Khan",
+        img: me,
+        github: "https://github.com/ANAS727189/",
+      },
+    ],
+  },
+  {
+    title: "QuizWizz",
+    description: "QuizWizz is an interactive Quiz full stack web application developed by me. It provides a platform where you can not only create your own quizzes but also participate in quizzes with 10 questions coming as a challenge and also provides real-time feedback on correctness.",
+    image: quiz,
+    date: "June 2024 - June 2024",
+    tags: [
+      "ReactJS",
+      "State Management",
+      "Routing",
+      "Form Handling",
+      "React Tools",
+      "React Libraries",
+      "React Icons",
+      "Database Management",
+      "CSS",
+      "TailwindCSS",
+      "Vercel",
+      "",
+    ],
+    github: "https://github.com/ANAS727189/QuizWizz",
+    link: "http://quizwizz-lay1d5n3w-anas727189s-projects.vercel.app",
+    member: [
+      {
+        name: "Anas Khan",
+        img: me,
+        github: "https://github.com/ANAS727189/",
+      },
+    ],
+  },
+  {
+    title: "Wordsmith Wonderland",
+    description: "WordSmith Wonderland is a blog web application. Made using NodeJS, Express JS,EJS, Bootstrap and CSS , It is a Blog application where you can see many blogs, create your own blogs,see all the varieties of quotes and many more. Delve into a world of inspiration with a diverse range of quotes, sparking creativity and reflection.",
+    image: "https://github.com/ANAS727189/Portfolio/blob/master/css/images/blog.jpeg?raw=true",
+    date: "Feb 2024 - Feb 2024",
+    tags: [
+      "NodeJS",
+      "EJS",
+      "ExpressJS",
+      "SQL",
+      "PostegreSQL",
+      "CSS",
+      "Bootstrap",
+      "Form Handling",
+      "CRUD",
+      "Local Storage",
+      "JS",
+      "Postman",
+    ],
+    github: "https://github.com/ANAS727189/WordSmith-WonderLand",
+    link: "https://blog-application-w6s1.vercel.app/",
+    member: [
+      {
+        name: "Anas Khan",
+        img: me,
+        github: "https://github.com/ANAS727189/",
+      },
+    ],
+  },
+  {
+    title: "To Do List",
+    description: "Todo List is a dynamic task management application crafted using React, React Material-UI, and CSS. This project provides use with a streamlined interface to organize their tasks effectively.The tasks can be added, edited, marked as completed, or deleted effortlessly,facilitating seamless task management",
+    image: todo,
+    date: "Jun 2023 - Jul 2023",
+    tags: [
+      "React",
+      "React Material UI",
+      "CSS",
+      "Local Storage",
+       "React Icons",
+      "Conditional Rendering",
+      "Event Handling",
+      "State Management",
+    ],
+    github: "https://github.com/ANAS727189/quiz",
+    link: "https://7sjwxq.csb.app/",
+    member: [
+      {
+        name: "Anas Khan",
+        img: me,
+        github: "https://github.com/ANAS727189/",
+      },
+    ],
+  },
+  {
+    title: "Bookshelf Buddy",
+    description: "Bookshelf Buddy is a dynamic web application crafted with Node.js, Express.js, SQL, APIs, CSS, and EJS. The project aims to simplify book management and reading experiences for users .Leveraging the power of Node.js and Express.js, the application provides a seamless and responsive user interface.",
+    image: "https://github.com/ANAS727189/Portfolio/blob/master/css/images/book.png?raw=true",
+    date: "Feb 2024 - Feb 2024",
+    tags: [
+      "NodeJS",
+      "EJS",
+      "ExpressJS",
+      "SQL",
+      "PostegreSQL",
+      "CSS",
+      "Bootstrap",
+      "API",
+      "RestAPI",
+      "Request Handling",
+      "Middleware",
+    ],
+    github: "https://github.com/ANAS727189/Bookshelf-Buddy",
+    link: "#",
+    member: [
+      {
+        name: "Anas Khan",
+        img: me,
+        github: "https://github.com/ANAS727189/",
+      },
+    ],
+  }, 
+  {
+    title: "Task Tracker",
+    description: "Task Tracker is a feature-rich and visually appealing web application designed to help users manage their daily tasks efficiently. This project combines HTML, CSS, and JavaScript to create a seamless task management experience. Whether it's creating, prioritizing, or tracking tasks,Task Tracker excels in delivering a dynamic and engaging user experience.",
+    image: "https://github.com/ANAS727189/Portfolio/blob/master/css/images/task_tracker.png?raw=true",
+    date: "Nov 2023 - Nov 2023",
+    tags: [
+      "HTML",
+      "CSS",
+      "JS",
+      "Local Storage",
+      "State Management",
+      "Event Handling",
+      "DOM Manipulation",
+      "Responsive Design",
+    ],
+    github: "https://github.com/ANAS727189/Task-Tracker",
+    link: "https://task-tracker-gamma-jade.vercel.app/",
+    member: [
+      {
+        name: "Anas Khan",
+        img: me,
+        github: "https://github.com/ANAS727189/",
+      },
+    ],
+  },  
     {
       title: "Capital Quiz",
       description: "World Capital Quiz is an interactive web application developed using Node.js, Express.js, SQL, and CSS. This project aims to enhance users' geographical knowledge by quizzing them on the capitals of various countries worldwide. Through a sleek and intuitive interface,the application provides real-time feedback on correctness.",
@@ -38,45 +182,16 @@ import me from "../assets/Me.jpg";
         "API",
         "RestAPI",
       ],
-      github: "https://github.com/rishavchanda/Trackify",
-      link: "#"
+      github: "https://github.com/ANAS727189/quiz",
+      link: "#",
+      member: [
+        {
+          name: "Anas Khan",
+          img: me,
+          github: "https://github.com/ANAS727189/",
+        },
+      ],
     },
-    {
-      title: "Bookshelf Buddy",
-      description: "Bookshelf Buddy is a dynamic web application crafted with Node.js, Express.js, SQL, APIs, CSS, and EJS. The project aims to simplify book management and reading experiences for users .Leveraging the power of Node.js and Express.js, the application provides a seamless and responsive user interface.",
-      image: "https://github.com/ANAS727189/Portfolio/blob/master/css/images/book.png?raw=true",
-      date: "Feb 2024 - Feb 2024",
-      tags: [
-        "NodeJS",
-        "EJS",
-        "ExpressJS",
-        "SQL",
-        "PostegreSQL",
-        "CSS",
-        "Bootstrap",
-        "API",
-        "RestAPI",
-      ],
-      github: "https://github.com/rishavchanda/Trackify",
-      link: "#"
-    }, 
-    {
-      title: "Wordsmith Wonderland",
-      description: "WordSmith Wonderland is a blog web application. Made using NodeJS, Express JS,EJS, Bootstrap and CSS , It is a Blog application where you can see many blogs, create your own blogs,see all the varieties of quotes and many more. Delve into a world of inspiration with a diverse range of quotes, sparking creativity and reflection.",
-      image: "https://github.com/ANAS727189/Portfolio/blob/master/css/images/blog.jpeg?raw=true",
-      date: "Feb 2024 - Feb 2024",
-      tags: [
-        "NodeJS",
-        "EJS",
-        "ExpressJS",
-        "SQL",
-        "PostegreSQL",
-        "CSS",
-        "Bootstrap",
-      ],
-      github: "https://github.com/rishavchanda/Trackify",
-      link: "#"
-    }, 
     {
       title: "Amazon Clone",
       description: "This project showcases a fully functional clone of the Amazon website, designed to demonstrate my capabilities in HTML, CSS and JavaScript. It features a dynamic user interface that closely mimics the look and feel of the original Amazon site, including a responsive layout that adapts to various screen sizes.",
@@ -86,23 +201,21 @@ import me from "../assets/Me.jpg";
         "HTML",
         "CSS",
         "JS",
+        "Event Handling",
+        "DOM Manipulation",
+        "Responsive Design",
       ],
-      github: "https://github.com/ANAS727189/amazon_clone",
-      link: "#"
-    },  
-    {
-      title: "Task Tracker",
-      description: "Task Tracker is a feature-rich and visually appealing web application designed to help users manage their daily tasks efficiently. This project combines HTML, CSS, and JavaScript to create a seamless task management experience. Whether it's creating, prioritizing, or tracking tasks,Task Tracker excels in delivering a dynamic and engaging user experience.",
-      image: "https://github.com/ANAS727189/Portfolio/blob/master/css/images/task_tracker.png?raw=true",
-      date: "Nov 2023 - Nov 2023",
-      tags: [
-        "HTML",
-        "CSS",
-        "JS",
+      github: "https://github.com/ANAS727189/Amazon_clone",
+      link: "https://amazon-clone-six-olive.vercel.app/",
+      member: [
+        {
+          name: "Anas Khan",
+          img: me,
+          github: "https://github.com/ANAS727189/",
+        },
       ],
-      github: "https://github.com/ANAS727189/amazon_clone",
-      link: "#"
     },  
+   
   ];
 
   export default projects;
