@@ -36,7 +36,7 @@
   <div class="project">
     <h2><b>2. QuizWizz</b></h2>
         <br>
-    <p>Vie the project Live : </p>
+    <p>View the project Live : </p>
     <a class="live-project" href="https://quizwizz-anas727189s-projects.vercel.app/"><b>View Live 🚀<b></a>
       <br>
     <h3>Technologies Used:</h3>
